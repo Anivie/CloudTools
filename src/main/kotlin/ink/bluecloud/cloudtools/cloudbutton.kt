@@ -11,6 +11,7 @@ import javafx.scene.paint.Color
 import javafx.scene.shape.SVGPath
 import javafx.util.Duration
 
+@Synchronized
 fun Button.loading() {
     if (!properties.containsKey("cloud-tools-loading-button")) {
         if (!stylesheets.contains("cloudtools_res/loadingbutton.css")) stylesheets += "cloudtools_res/loadingbutton.css"
