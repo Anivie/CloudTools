@@ -17,7 +17,7 @@ Default：``CloudMessageBox("提示","是猫猫！").showOnly()``
 If you want to target some button：
 ```kotlin
 val buttons = arrayOf("红猫", "橙猫", "黄猫", "绿猫")
-println(CloudMessageBox("提示", "选择一只属于你的猫猫吧！", button = buttons).showAndGet())//Out put 2 if press "黄猫"
+println(CloudMessageBox("提示", "选择一只属于你的猫猫吧！", button = buttons).showAndGet())//Out put 2 if click "黄猫"
 ```
 ![MessageButons](readme_images/messagebox_getbutton.png)
 
