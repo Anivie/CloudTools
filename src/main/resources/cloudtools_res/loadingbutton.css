@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "cloudfont";
+    src:url("button.ttf");
+}
+
+.loading-label {
+    -fx-font-family: "cloudfont";
+}
