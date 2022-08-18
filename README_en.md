@@ -32,3 +32,12 @@ Themes here：
 ![Error](readme_images/notice_error.png)
 ![Warning](readme_images/notice_warning.png)
 ![Message](readme_images/notice_message.png)
+
+## Smooth scrolling progress bar：
+Waiting for replenishment
+## SliderComponentWithProgressBar：
+Waiting for replenishment
+## One line to build your CustomStage：
+Waiting for replenishment
+## Button loading effect：
+Waiting for replenishment

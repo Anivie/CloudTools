@@ -32,3 +32,12 @@ CloudNotice(NoticeType.Right, "请输入用户名！", primaryStage).show()
 ![Error](readme_images/notice_error.png)
 ![Warning](readme_images/notice_warning.png)
 ![Message](readme_images/notice_message.png)
+
+## 平滑滚动的进度条：
+等待补充
+## 带进度条的滑块组件：
+等待补充
+## 一键自定义窗体：
+等待补充
+## 按钮加载特效：
+等待补充

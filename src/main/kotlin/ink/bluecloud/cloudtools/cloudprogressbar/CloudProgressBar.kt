@@ -1,4 +1,4 @@
-package ink.bluecloud.cloudtools.cloudprogressbat
+package ink.bluecloud.cloudtools.cloudprogressbar
 
 import ink.bluecloud.cloudtools.CLOUD_INTERPOLATOR
 import javafx.animation.Interpolator
