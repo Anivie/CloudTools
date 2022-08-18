@@ -1,4 +1,4 @@
-Click here to choose Language: English | [中文](https://github.com/Anivie/CloudTools/README.md)
+Click here to choose Language: English | [中文](https://github.com/Anivie/CloudTools)
 
 # About：
 A Java Fx toolkit, this project is related to[ElementFX](https://github.com/Anivie/ElementFX).
